@@ -21,7 +21,6 @@ public class Ejercicio03 {
         int elementosAbajoMedia = 0;
         double suma = 0;
         double media = 0;
-        int contador = 0;
         for (int i = 0; i < arreglo.length; i++) {
             suma = suma + arreglo[i];
         }
